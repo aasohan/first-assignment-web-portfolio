@@ -1,0 +1,31 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+
+}
+.highlights{
+   color:sandybrown;
+}
+.button{
+    background-color: sandybrown;
+    text-decoration: none;
+    border-radius: 10px;
+    color:whitesmoke;
+    padding: 10px;
+}
+
+
+
+.top-content{
+    width: 35%;
+     float: left;
+     
+     margin-left: 5%;
+     padding-left: 10%;
+     margin-top: 5%;
+     
+}
+
+.top-content img{
+    width:50%;
+}

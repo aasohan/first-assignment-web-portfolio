@@ -29,3 +29,21 @@ body{
 .top-content img{
     width:50%;
 }
+#download_icon{
+    width:40%;
+    align-content: center;
+    
+}
+.latest_work{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 1opx;
+    height: 30%;
+    float:left;
+    size: 30%;
+}
+
+
+
+
+
+

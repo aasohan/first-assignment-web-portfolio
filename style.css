@@ -39,7 +39,7 @@ body{
     
     border-radius: 10px;
     width: auto;
-    height: 50%;
+    height: auto;
     
     
 }
@@ -48,10 +48,18 @@ body{
     width:30%;
    float:left; 
    padding-left: 20px;
-   box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+   
 }
 .last_part{
 
+}
+.work_inquary{
+    
+    background-color: sandybrown;
+    text-decoration: none;
+    border-radius: 10px;
+    color:whitesmoke;
+    padding: 10px;
 }
 
 

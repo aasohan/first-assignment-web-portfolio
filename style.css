@@ -1,69 +1,23 @@
-body{
-    font-family: 'Roboto', sans-serif;
-
-
+.highlight{
+    color:goldenrod;
+    font-weight: 700;
 }
-.highlights{
-   color:sandybrown;
-}
-.button{
-    background-color: sandybrown;
-    text-decoration: none;
-    border-radius: 10px;
-    color:whitesmoke;
-    padding: 10px;
-}
-
-
-
-.top-content{
-    width: 35%;
-     float: left;
-     
-     margin-left: 5%;
-     padding-left: 10%;
-     margin-top: 5%;
-     
-}
-
-.top-content img{
-    width:50%;
-}
-#download_icon{
-    width:40%;
-    align-content: center;
-    
-}
-.latest_work{
-    
-    
-    border-radius: 10px;
-    width: auto;
-    height: auto;
-    
-    
-}
-#image_control{
-
-    width:30%;
-   float:left; 
-   padding-left: 20px;
+.wrapeer{
+    width: 20%;
    
+  
+  
+  box-shadow: 10px 10px 30px yellowgreen;
+  border-radius: 30px;
+  float: left;
+  margin-left: 5%;
+  
+  padding-left: 3%;
+  padding-right: 5%;
 }
-.last_part{
-
+.wrapeer img{
+    width: 100%;
 }
-.work_inquary{
-    
-    background-color: sandybrown;
-    text-decoration: none;
-    border-radius: 10px;
-    color:whitesmoke;
-    padding: 10px;
-}
-
-
-
 
 
 
